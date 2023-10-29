@@ -13,10 +13,8 @@ I received a B.E. degree in computer science (CS) from Shanghai Jiao Tong Univer
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2023]** I am currently engaged in an international internship project at the National Institute of Informatics (NII) in Japan.
+- **[Sept. 2023]** Our paper about resource allocation in EB charging stations has been accepted to TITS 2023.
 
 {% include_relative _includes/publications.md %}
 
