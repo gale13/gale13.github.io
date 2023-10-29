@@ -31,7 +31,7 @@ I received a B.E. degree in computer science (CS) from Shanghai Jiao Tong Univer
 ## Services
 
 #### Academic Services
-- **[2023]** **[2022]** Teaching Assistant for the course "Mathematical Fundamentals in Computer Science".
+- **[2023]** **[2022]** Teaching Assistant for the course "Mathematical Fundamentals in Computer Science", CS2304 (SJTU).
 
 #### Social Services
 - **[2021-2022]** Chairperson of the Shanghai Jiao Tong University Graduate Student Union.
