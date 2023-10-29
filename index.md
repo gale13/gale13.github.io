@@ -8,8 +8,9 @@ I received a B.E. degree in computer science (CS) from Shanghai Jiao Tong Univer
 
 ## Research Interests
 
-- **Cyber-physical System:** smart city, intelligent transportation, networking
-- **Online Learning:** stochastic optimization, online scheduling, lyapunov optimization
+- **Cyber-Physical System:** smart city, intelligent transportation, networking
+- **Online Learning:** stochastic optimization, online scheduling, Lyapunov optimization
+- **Human-Centered Computing** data mining, human mobility, artificial intelligence
 
 ## News
 
