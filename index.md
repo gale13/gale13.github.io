@@ -20,9 +20,19 @@ I received a B.E. degree in computer science (CS) from Shanghai Jiao Tong Univer
 {% include_relative _includes/membership.md %}
 
 ## Awards
+
 - **[2022]** **[2021]** **[2018]** Excellent League Member.
 - **[2021]** Excellent Student Cadre.
 - **[2021]** The Elite Award of the 4th Shanghai Jiao Tong University-Weining Health Smart Medical Challenge (Artificial Intelligence College Group).
 - **[2021]** Outstanding Volunteer for the "2021 Youth College Science Camp" organized by the Youth Science and Technology Center of the China Association for Science and Technology.
 - **[2020]** Outstanding Graduate of Shanghai Jiao Tong University.
 - **[2019]** **[2018]** Shanghai Jiao Tong University Excellence Scholarship.
+
+## Services
+
+#### Academic Services
+- **[2023]** **[2022]** Teaching Assistant for the course "Mathematical Fundamentals in Computer Science".
+
+#### Social Services
+- **[2021-2022]** Chairperson of the Shanghai Jiao Tong University Graduate Student Union.
+- **[2023]** Administrative Management Trainee.
