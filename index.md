@@ -10,7 +10,7 @@ I received a B.E. degree in computer science (CS) from Shanghai Jiao Tong Univer
 
 - **Cyber-Physical System:** smart city, intelligent transportation, networking
 - **Online Learning:** stochastic optimization, online scheduling, Lyapunov optimization
-- **Human-Centered Computing** data mining, human mobility, artificial intelligence
+- **Human-Centered Computing:** data mining, human mobility, artificial intelligence
 
 ## News
 
