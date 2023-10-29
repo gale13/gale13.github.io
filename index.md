@@ -32,6 +32,7 @@ I received a B.E. degree in computer science (CS) from Shanghai Jiao Tong Univer
 
 #### Academic Services
 - **[2023]** **[2022]** Teaching Assistant for the course "Mathematical Fundamentals in Computer Science", CS2304 (SJTU).
+- **[2023]** Student Mentor for the 43rd PRP Project on Deep Learning Theory, Technology, and Application at Shanghai Jiao Tong University.
 
 #### Social Services
 - **[2021-2022]** Chairperson of the Shanghai Jiao Tong University Graduate Student Union.
