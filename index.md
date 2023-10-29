@@ -17,5 +17,6 @@ I received a B.E. degree in computer science (CS) from Shanghai Jiao Tong Univer
 - **[Sept. 2023]** Our paper about resource allocation has been accepted to TITS 2023.
 
 {% include_relative _includes/publications.md %}
+{% include_relative _includes/membership.md %}
 
 
