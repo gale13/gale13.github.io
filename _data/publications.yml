@@ -5,7 +5,7 @@ main:
     conference_short: TITS
     conference: IEEE Transactions on Intelligent Transportation Systems <strong>(T-ITS)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10260307
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/tits.png
     notes: Early Access
 
   - title: "Measuring similarity between any pair of passengers using smart card usage data"
