@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I received a B.E. degree in computer science (CS) from Shanghai Jiao Tong University, Shanghai, China, in 2020. I'm currently pursuing a Ph.D. degree in computer science at Shanghai Jiao Tong University (SJTU), Shanghai, China, and working in big data, cyber-physical systems (CPS), and smart transportation.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Cyber-physical System:** smart city, intelligent transportation, networking
+- **Online Learning:** stochastic optimization, online scheduling, lyapunov optimization
 
 ## News
 
