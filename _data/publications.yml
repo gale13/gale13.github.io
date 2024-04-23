@@ -6,7 +6,7 @@ main:
     conference: IEEE Transactions on Intelligent Transportation Systems <strong>(T-ITS)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10260307
     image: ./assets/img/tits.png
-    notes: Early Access
+    notes: Published
 
   - title: "Measuring similarity between any pair of passengers using smart card usage data"
     authors: <strong>Xinyu Lu</strong>, Jie Li, Chentao Wu, Jinsong Wu, Mahmoud Daneshmand
