@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/bf057947-d919-449c-accd-60fa45e4c094)---
 layout: homepage
 ---
 
@@ -21,13 +21,15 @@ I received a B.E. degree in computer science (CS) from Shanghai Jiao Tong Univer
 {% include_relative _includes/membership.md %}
 
 ## Awards
-
+- **[2024]** Excellent Award, Smart Medical Challenge, Shanghai Jiao Tong University-Winning Health.
+- **[2024]** Volunteer of “China International College Students’ Innovation Competition 2024”.
+- **[2023]** Student leader for an outstanding visual journalism project, China Youth News.
 - **[2022]** **[2021]** **[2018]** Excellent League Member.
 - **[2021]** Excellent Student Cadre.
 - **[2021]** The Elite Award of the 4th Shanghai Jiao Tong University-Weining Health Smart Medical Challenge (Artificial Intelligence College Group).
 - **[2021]** Outstanding Volunteer for the "2021 Youth College Science Camp" organized by the Youth Science and Technology Center of the China Association for Science and Technology.
 - **[2020]** Outstanding Graduate of Shanghai Jiao Tong University.
-- **[2019]** 3rd Prize, Women in Technology – Innovation Stars Competition, Dell Technologies
+- **[2019]** 3rd Prize, Women in Technology – Innovation Stars Competition, Dell Technologies.
 - **[2019]** **[2018]** Shanghai Jiao Tong University Excellence Scholarship.
 
 ## Services
