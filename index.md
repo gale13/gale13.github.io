@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bf057947-d919-449c-accd-60fa45e4c094)---
+---
 layout: homepage
 ---
 
