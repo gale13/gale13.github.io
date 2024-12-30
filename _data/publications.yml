@@ -1,5 +1,13 @@
 main:
 
+  - title: "V2PCP: Toward Online Booking Mechanism for Private Charging Piles"
+    authors: <strong>Xinyu Lu</strong>, Jiawei Sun, Jiong Lou, Yusheng Ji, Chentao Wu, Wei Zhao, Guangtao Xue, Yuan Luo, Fan Cheng, Jie Li
+    conference_short: TITS
+    conference: IEEE Transactions on Intelligent Transportation Systems <strong>(T-ITS)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10817479
+    image: ./assets/img/tits.png
+    notes: Early Access
+    
   - title: "Toward Real-Time Pricing and Allocation for Surplus Resources in Electric Bus Charging Stations"
     authors: <strong>Xinyu Lu</strong>, Jie Li, Shijing Yuan, Haiming Jin, Chentao Wu, Zhan Xu
     conference_short: TITS
