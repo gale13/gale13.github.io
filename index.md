@@ -33,6 +33,7 @@ I received a B.E. degree in computer science (CS) from Shanghai Jiao Tong Univer
 ## Services
 
 #### Academic Services
+- **[2024]** Reviewer for WWW'2025
 - **[2024]** Reviewer for IEEE ITS Transactions
 - **[2024]** **[2023]** **[2022]** Teaching Assistant for the course "Mathematical Fundamentals in Computer Science", CS2304 (SJTU).
 - **[2023]** Teaching Assistant for the course "Introduction to Logic", PHIL1119 (SJTU).
