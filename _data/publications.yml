@@ -5,7 +5,7 @@ main:
     conference_short: TITS
     conference: IEEE Transactions on Intelligent Transportation Systems <strong>(T-ITS)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10817479
-    image: ./assets/img/tits.png
+    image: ./assets/img/tits2.png
     notes: Early Access
     
   - title: "Toward Real-Time Pricing and Allocation for Surplus Resources in Electric Bus Charging Stations"
