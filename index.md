@@ -14,8 +14,8 @@ I received a B.E. degree in computer science (CS) from Shanghai Jiao Tong Univer
 
 ## News
 
+- **[Dec. 2024]** Our paper about charging pile sharing has been accepted to TITS 2024.
 - **[Oct. 2023-Dec. 2023]** I was engaged in an international internship project at the National Institute of Informatics (NII) in Japan.
-- **[Sept. 2023]** Our paper about resource allocation has been accepted to TITS 2023.
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/membership.md %}
