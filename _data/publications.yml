@@ -5,7 +5,7 @@ main:
     conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2025.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10889393
-    image: ./assets/img/tits2.png
+    image: ./assets/img/icass.png
     notes: Early Access
 
   - title: "V2PCP: Toward Online Booking Mechanism for Private Charging Piles"
