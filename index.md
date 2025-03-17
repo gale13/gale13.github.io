@@ -22,6 +22,7 @@ I received a B.E. degree in computer science (CS) from Shanghai Jiao Tong Univer
 
 ## Awards
 - **[2024]** Excellent Award, Smart Medical Challenge, Shanghai Jiao Tong University-Winning Health.
+- **[2024]** Typical Cases of Merged Media Works in 2023, China Publishing Association - China Education Television Association.
 - **[2024]** Volunteer of “China International College Students’ Innovation Competition 2024”.
 - **[2023]** Student leader for an outstanding visual journalism project, China Youth News.
 - **[2022]** **[2021]** **[2018]** Excellent League Member.
