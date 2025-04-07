@@ -46,3 +46,6 @@ I received a B.E. degree in computer science (CS) from Shanghai Jiao Tong Univer
 #### Social Services
 - **[2021-2022]** Chairperson of the Shanghai Jiao Tong University Graduate Student Union.
 - **[2024]** **[2023]** Administrative Management Trainee.
+
+## All Publications
+- **Xinyu Lu**, Jiong Lou, Jie Li, Runhui Xu, Chentao Wu, Zhi Liu, Yuan Luo, Yang Yang. Towards Bi-level Supply/Demand Balanced Charging Systems via Online Power Scheduling[J]. IEEE Trans- actions on Mobile Computing. (CCF-A, SCI)
