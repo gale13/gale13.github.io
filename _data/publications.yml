@@ -1,12 +1,20 @@
 main:
 
+  - title: "Towards Bi-level Supply/Demand Balanced Charging Systems via Online Power Scheduling"
+    authors: <strong>Xinyu Lu</strong>, Jiong Lou, Jie Li, Runhui Xu, Chentao Wu, Zhi Liu, Yuan Luo, Yang Yang
+    conference_short: TMC
+    conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2025.
+    pdf: https://ieeexplore.ieee.org/document/10955199
+    image: ./assets/img/icass.png
+    notes: Early Access
+
   - title: "Generative Diffusion Model-based Energy Management in Networked Energy Systems"
     authors: <strong>Xinyu Lu</strong>, Zhanbo Feng, Jiawei Sun, Jiong Lou, Chentao Wu, Wugedele Bao, Jie Li
     conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2025.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10889393
     image: ./assets/img/icass.png
-    notes: Early Access
+    notes: Published
 
   - title: "V2PCP: Toward Online Booking Mechanism for Private Charging Piles"
     authors: <strong>Xinyu Lu</strong>, Jiawei Sun, Jiong Lou, Yusheng Ji, Chentao Wu, Wei Zhao, Guangtao Xue, Yuan Luo, Fan Cheng, Jie Li
