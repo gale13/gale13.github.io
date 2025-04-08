@@ -5,7 +5,7 @@ main:
     conference_short: TMC
     conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2025.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10955199
-    image: ./assets/img/icass.png
+    image: ./assets/img/tmc.png
     notes: Early Access
 
   - title: "Generative Diffusion Model-based Energy Management in Networked Energy Systems"
