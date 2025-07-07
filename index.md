@@ -8,9 +8,9 @@ I obtained my B.E. (2020) and Ph.D. (2025) in Computer Science from Shanghai Jia
 
 ## Research Interests
 
-- **Online Generative Optimization:** diffusion-based methods for optimization, online decision making
+- **Online Generative Optimization:** diffusion-based methods for optimization, online learning
 - **Spatiotemporal Scheduling:** stochastic optimization, online scheduling, Lyapunov optimization
-- **Data-Driven Intelligent Urban Decision-Making:** data mining, human mobility, artificial intelligence
+- **Data-Driven Intelligent Urban Decision-Making:** data mining, human mobility, AI
 
 ## News
 
