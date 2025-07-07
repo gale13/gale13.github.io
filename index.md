@@ -4,23 +4,23 @@ layout: homepage
 
 ## About Me
 
-I received a B.E. degree in computer science (CS) from Shanghai Jiao Tong University, Shanghai, China, in 2020. I'm currently pursuing a Ph.D. degree in computer science at Shanghai Jiao Tong University (SJTU), Shanghai, China, and working in big data, cyber-physical systems (CPS), and smart transportation.
+I obtained my B.E. (2020) and Ph.D. (2025) in Computer Science from Shanghai Jiao Tong University (SJTU). My research focuses on online generative optimization, spatiotemporal scheduling, and data-driven intelligent urban decision-making.
 
 ## Research Interests
 
-- **Cyber-Physical System:** smart city, intelligent transportation, networking
-- **Online Learning:** stochastic optimization, online scheduling, Lyapunov optimization
-- **Human-Centered Computing:** data mining, human mobility, artificial intelligence
+- **Online Generative Optimization:** diffusion-based methods for optimization, online decision making
+- **Spatiotemporal Scheduling:** stochastic optimization, online scheduling, Lyapunov optimization
+- **Data-Driven Intelligent Urban Decision-Making:** data mining, human mobility, artificial intelligence
 
 ## News
 
-- **[Dec. 2024]** Our paper about charging pile sharing has been accepted to TITS 2024.
 - **[Oct. 2023-Dec. 2023]** I was engaged in an international internship project at the National Institute of Informatics (NII) in Japan.
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/membership.md %}
 
 ## Awards
+- **[2025]** Outstanding Graduate of Shanghai, Shanghai Municipal Education Commission.
 - **[2024]** Excellent Award, Smart Medical Challenge, Shanghai Jiao Tong University-Winning Health.
 - **[2024]** Typical Cases of Merged Media Works in 2023, China Publishing Association - China Education Television Association.
 - **[2024]** Volunteer of “China International College Students’ Innovation Competition 2024”.
