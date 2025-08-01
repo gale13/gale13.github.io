@@ -35,7 +35,8 @@ I obtained my B.E. (2020) and Ph.D. (2025) in Computer Science from Shanghai Jia
 
 ## Services
 
-#### Academic Services
+#### Academic Services 
+- **[2025]** Reviewer for CyberSciTech'2025 (AI-DHWP 2025)
 - **[2025]** Reviewer for Expert Systems With Applications
 - **[2024]** Reviewer for WWW'2025
 - **[2024]** Reviewer for IEEE ITS Transactions
