@@ -4,6 +4,7 @@ layout: homepage
 
 <nav style="background: #f5f5f5; padding: 10px 0; margin-bottom: 20px; text-align: center;">
   <a href="#bio" style="margin: 0 18px;">Short Bio</a>
+  <a href="#award" style="margin: 0 18px;">Awards</a>
   <a href="#publist" style="margin: 0 18px;">All Publications</a>
 </nav>
 
@@ -25,20 +26,6 @@ I obtained my B.E. (2020) and Ph.D. (2025) in Computer Science from Shanghai Jia
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/membership.md %}
 
-## Awards
-- **[2025]** Outstanding Graduate of Shanghai, Shanghai Municipal Education Commission.
-- **[2024]** Excellent Award, Smart Medical Challenge, Shanghai Jiao Tong University-Winning Health.
-- **[2024]** Typical Cases of Merged Media Works in 2023, China Publishing Association - China Education Television Association.
-- **[2024]** Volunteer of “China International College Students’ Innovation Competition 2024”.
-- **[2023]** Student leader for an outstanding visual journalism project, China Youth News.
-- **[2022]** **[2021]** **[2018]** Excellent League Member.
-- **[2021]** Excellent Student Cadre.
-- **[2021]** The Elite Award of the 4th Shanghai Jiao Tong University-Weining Health Smart Medical Challenge (Artificial Intelligence College Group).
-- **[2021]** Outstanding Volunteer for the "2021 Youth College Science Camp" organized by the Youth Science and Technology Center of the China Association for Science and Technology.
-- **[2020]** Outstanding Graduate of Shanghai Jiao Tong University.
-- **[2019]** 3rd Prize, Women in Technology – Innovation Stars Competition, Dell Technologies.
-- **[2019]** **[2018]** Shanghai Jiao Tong University Excellence Scholarship.
-
 ## Services
 
 #### Academic Services 
@@ -53,6 +40,21 @@ I obtained my B.E. (2020) and Ph.D. (2025) in Computer Science from Shanghai Jia
 #### Social Services
 - **[2021-2022]** Chairperson of the Shanghai Jiao Tong University Graduate Student Union.
 - **[2024]** **[2023]** Administrative Management Trainee.
+
+<a id="award"></a>
+## Awards
+- **[2025]** Outstanding Graduate of Shanghai, Shanghai Municipal Education Commission.
+- **[2024]** Excellent Award, Smart Medical Challenge, Shanghai Jiao Tong University-Winning Health.
+- **[2024]** Typical Cases of Merged Media Works in 2023, China Publishing Association - China Education Television Association.
+- **[2024]** Volunteer of “China International College Students’ Innovation Competition 2024”.
+- **[2023]** Student leader for an outstanding visual journalism project, China Youth News.
+- **[2022]** **[2021]** **[2018]** Excellent League Member.
+- **[2021]** Excellent Student Cadre.
+- **[2021]** The Elite Award of the 4th Shanghai Jiao Tong University-Weining Health Smart Medical Challenge (Artificial Intelligence College Group).
+- **[2021]** Outstanding Volunteer for the "2021 Youth College Science Camp" organized by the Youth Science and Technology Center of the China Association for Science and Technology.
+- **[2020]** Outstanding Graduate of Shanghai Jiao Tong University.
+- **[2019]** 3rd Prize, Women in Technology – Innovation Stars Competition, Dell Technologies.
+- **[2019]** **[2018]** Shanghai Jiao Tong University Excellence Scholarship.
 
 <a id="publist"></a>
 
