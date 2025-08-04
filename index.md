@@ -2,6 +2,12 @@
 layout: homepage
 ---
 
+<nav style="background: #f5f5f5; padding: 10px 0; margin-bottom: 20px; text-align: center;">
+  <a href="#bio" style="margin: 0 18px;">Short Bio</a>
+  <a href="#publist" style="margin: 0 18px;">All Publications</a>
+</nav>
+
+<a id="bio"></a>
 ## About Me
 
 I obtained my B.E. (2020) and Ph.D. (2025) in Computer Science from Shanghai Jiao Tong University (SJTU). My research focuses on online generative optimization, spatiotemporal scheduling, and data-driven intelligent urban decision-making.
@@ -47,6 +53,8 @@ I obtained my B.E. (2020) and Ph.D. (2025) in Computer Science from Shanghai Jia
 #### Social Services
 - **[2021-2022]** Chairperson of the Shanghai Jiao Tong University Graduate Student Union.
 - **[2024]** **[2023]** Administrative Management Trainee.
+
+<a id="publist"></a>
 
 ## All Publications
 - **Xinyu Lu**, Jiong Lou, Jie Li, Runhui Xu, Chentao Wu, Zhi Liu, Yuan Luo, Yang Yang. Towards Bi-level Supply/Demand Balanced Charging Systems via Online Power Scheduling[J]. IEEE Transactions on Mobile Computing (TMC). (CCF-A, SCI)
