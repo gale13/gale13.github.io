@@ -11,7 +11,7 @@ layout: homepage
 <a id="bio"></a>
 ## About Me
 
-I obtained my B.E. (2020) and Ph.D. (2025) in Computer Science from Shanghai Jiao Tong University (SJTU). My research focuses on online generative optimization, spatiotemporal scheduling, and data-driven intelligent urban decision-making.
+I am currently a Postdoctoral Fellow at The Chinese University of Hong Kong, Shenzhen. I received my B.E. (2020) and Ph.D. (2025) in Computer Science from Shanghai Jiao Tong University (SJTU). My research interests lie in online generative optimization, spatiotemporal scheduling, and data-driven intelligent urban decision-making.
 
 ## Research Interests
 
