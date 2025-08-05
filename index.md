@@ -19,9 +19,19 @@ I am currently a Postdoctoral Fellow at The Chinese University of Hong Kong, She
 - **Spatiotemporal Scheduling:** stochastic optimization, online scheduling, Lyapunov optimization
 - **Data-Driven Intelligent Urban Decision-Making:** data mining, human mobility, AI
 
-## News
+## Academic Experience
 
-- **[Oct. 2023-Dec. 2023]** I was engaged in an international internship project at the National Institute of Informatics (NII) in Japan.
+- **Postdoctoral Fellow**, CUHK-Shenzhen  
+  *2025 - Current position (Expected 2027)*
+
+- **Ph.D. in Computer Science**, Shanghai Jiao Tong University  
+  *2020 – 2025*
+
+- **International Internship**, National Institute of Informatics (NII), Japan  
+  *Oct. 2023 – Dec. 2023*
+
+- **B.E. in Computer Science**, Shanghai Jiao Tong University  
+  *2016 – 2020*
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/membership.md %}
