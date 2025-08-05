@@ -21,13 +21,13 @@ I am currently a Postdoctoral Fellow at The Chinese University of Hong Kong, She
 
 ## Academic Experience
 
-- **Postdoctoral Fellow**, CUHK-Shenzhen  
+- **Postdoctoral Fellow**, The Chinese University of Hong Kong, Shenzhen  
   *Aug. 2025 - Current position (Expected Aug. 2027)*
-- **Ph.D. in Computer Science**, Shanghai Jiao Tong University  
+- **Ph.D. in Computer Science**, Shanghai Jiao Tong University, Shanghai  
   *Sept. 2020 – Jun. 2025*
-- **International Internship**, National Institute of Informatics (NII), Japan  
+- **International Internship**, National Institute of Informatics (NII), Tokyo (Japan)  
   *Oct. 2023 – Dec. 2023*
-- **B.E. in Computer Science**, Shanghai Jiao Tong University  
+- **B.E. in Computer Science**, Shanghai Jiao Tong University, Shanghai  
   *Sept. 2016 – Jun. 2020*
 
 {% include_relative _includes/publications.md %}
