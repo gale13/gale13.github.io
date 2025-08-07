@@ -21,13 +21,13 @@ I am currently a Postdoctoral Fellow at The Chinese University of Hong Kong, She
 
 ## Academic Experience
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Emblem_of_CU.png" alt="CUHK(SZ)" width="20" height="20" /> **Postdoctoral Fellow**, The Chinese University of Hong Kong, Shenzhen  
+- <img src="assets/img/cuhk.png" alt="CUHK(SZ)" width="20" height="20" /> **Postdoctoral Fellow**, The Chinese University of Hong Kong, Shenzhen  
   *Aug. 2025 - Current position (Expected Aug. 2027)*
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBN-cFAPGb_RcRhAhmhpDEUH3r5OIEcI0CA&s" alt="nii" width="20" height="20" />  **International Internship**, National Institute of Informatics (NII), Tokyo (Japan)  
+- <img src="assets/img/nii.jpeg" alt="nii" width="20" height="20" />  **International Internship**, National Institute of Informatics (NII), Tokyo (Japan)  
   *Oct. 2023 – Dec. 2023*
-- <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d5/SJTU_emblem.svg/1200px-SJTU_emblem.svg.png" alt="sjtu" width="20" height="20" />  **Ph.D. in Computer Science**, Shanghai Jiao Tong University, Shanghai  
+- <img src="assets/img/sjtu.png" alt="sjtu" width="20" height="20" />  **Ph.D. in Computer Science**, Shanghai Jiao Tong University, Shanghai  
   *Sept. 2020 – Jun. 2025*
-- <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d5/SJTU_emblem.svg/1200px-SJTU_emblem.svg.png" alt="sjtu" width="20" height="20" /> **B.E. in Computer Science**, Shanghai Jiao Tong University, Shanghai  
+- <img src="assets/img/sjtu.png" alt="sjtu" width="20" height="20" /> **B.E. in Computer Science**, Shanghai Jiao Tong University, Shanghai  
   *Sept. 2016 – Jun. 2020*
 
 {% include_relative _includes/publications.md %}
