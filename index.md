@@ -23,7 +23,7 @@ I am currently a Postdoctoral Fellow at The Chinese University of Hong Kong, She
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Emblem_of_CU.png" alt="CUHK(SZ)" width="20" height="20" /> **Postdoctoral Fellow**, The Chinese University of Hong Kong, Shenzhen  
   *Aug. 2025 - Current position (Expected Aug. 2027)*
-- **International Internship**, National Institute of Informatics (NII), Tokyo (Japan)  
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBN-cFAPGb_RcRhAhmhpDEUH3r5OIEcI0CA&s" alt="CUHK(SZ)" width="20" height="20" />  **International Internship**, National Institute of Informatics (NII), Tokyo (Japan)  
   *Oct. 2023 – Dec. 2023*
 - **Ph.D. in Computer Science**, Shanghai Jiao Tong University, Shanghai  
   *Sept. 2020 – Jun. 2025*
