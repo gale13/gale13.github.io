@@ -21,7 +21,7 @@ I am currently a Postdoctoral Fellow at The Chinese University of Hong Kong, She
 
 ## Academic Experience
 
-- **Postdoctoral Fellow**, The Chinese University of Hong Kong, Shenzhen  
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkgocXIxMStQA_G4wibwOynPofaa0DOoj7JQ&s" alt="CUHK(SZ)" width="20" height="20" /> **Postdoctoral Fellow**, The Chinese University of Hong Kong, Shenzhen  
   *Aug. 2025 - Current position (Expected Aug. 2027)*
 - **International Internship**, National Institute of Informatics (NII), Tokyo (Japan)  
   *Oct. 2023 – Dec. 2023*
