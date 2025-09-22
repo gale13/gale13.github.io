@@ -66,7 +66,8 @@ I am currently a Postdoctoral Fellow at The Chinese University of Hong Kong, She
 <a id="publist"></a>
 
 ## All Publications
-- **Xinyu Lu**, Jiong Lou, Jie Li, Runhui Xu, Chentao Wu, Zhi Liu, Yuan Luo, Yang Yang. Towards Bi-level Supply/Demand Balanced Charging Systems via Online Power Scheduling[J]. IEEE Transactions on Mobile Computing (TMC). (CCF-A, SCI)
+- **Xinyu Lu**, Zhanbo Feng, Jiong Lou, Chentao Wu, Guangtao Xue, Wei Zhao, Jie Li. Multi-layer Scheduling in Gig Platforms Using a Generative Diffusion Model with Duality Guidance[J]. IEEE Transactions on Mobile Computing (TMC), 2025. (CCF-A, SCI, Accepted)
+- **Xinyu Lu**, Jiong Lou, Jie Li, Runhui Xu, Chentao Wu, Zhi Liu, Yuan Luo, Yang Yang. Towards Bi-level Supply/Demand Balanced Charging Systems via Online Power Scheduling[J]. IEEE Transactions on Mobile Computing (TMC), 2025, 24(9): 8405-8422. (CCF-A, SCI)
 - **Xinyu Lu**, Jiawei Sun, Jiong Lou, Yusheng Ji, Chentao Wu, Wei Zhao, Guangtao Xue, Yuan Luo, Fan Cheng, Jie Li. V2PCP: Toward Online Booking Mechanism for Private Charging Piles[J]. IEEE Transactions on Intelligent Transportation Systems (TITS), 2025, 26(2): 2514-2529. (CCF-B, SCI)
 - **Xinyu Lu**, Zhanbo Feng, Jiawei Sun, Jiong Lou, Chentao Wu, Wugedele Bao, Jie Li. Generative Diffusion Model-based Energy Management in Networked Energy Systems[C]//IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP). 2025. (CCF-B)
 - **Xinyu Lu**, Jie Li, Shijing Yuan, Haiming Jin, Chentao Wu, Zhan Xu. Toward Real-Time Pricing and Allocation for Surplus Resources in Electric Bus Charging Stations[J]. IEEE Transactions on Intelligent Transportation Systems (TITS), 2023, 25(2): 2101-2115. (CCF-B, SCI)
