@@ -1,12 +1,20 @@
 main:
 
+   - title: "Multi-layer Scheduling in Gig Platforms Using a Generative Diffusion Model with Duality Guidance"
+    authors: <strong>Xinyu Lu</strong>, Zhanbo Feng, Jiong Lou, Chentao Wu, Guangtao Xue, Wei Zhao, Jie Li
+    conference_short: TMC
+    conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2025.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11176145
+    notes: Early Access
+    image: ./assets/img/total.png
+    
   - title: "Towards Bi-level Supply/Demand Balanced Charging Systems via Online Power Scheduling"
     authors: <strong>Xinyu Lu</strong>, Jiong Lou, Jie Li, Runhui Xu, Chentao Wu, Zhi Liu, Yuan Luo, Yang Yang
     conference_short: TMC
     conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2025.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10955199
     image: ./assets/img/tmc.png
-    notes: Early Access
+    notes: Published
 
   - title: "Generative Diffusion Model-based Energy Management in Networked Energy Systems"
     authors: <strong>Xinyu Lu</strong>, Zhanbo Feng, Jiawei Sun, Jiong Lou, Chentao Wu, Wugedele Bao, Jie Li
@@ -31,11 +39,3 @@ main:
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10260307
     image: ./assets/img/tits.png
     notes: Published
-
-  - title: "Measuring similarity between any pair of passengers using smart card usage data"
-    authors: <strong>Xinyu Lu</strong>, Jie Li, Chentao Wu, Jinsong Wu, Mahmoud Daneshmand
-    conference_short: IOTJ
-    conference: IEEE Internet of Things Journal <strong>(IOT-J)</strong>, 2021.
-    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9455416
-    notes: Published
-    image: ./assets/img/total.png
