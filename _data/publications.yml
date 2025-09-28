@@ -1,6 +1,6 @@
 main:
 
-   - title: "Multi-layer Scheduling in Gig Platforms Using a Generative Diffusion Model with Duality Guidance"
+  - title: "Multi-layer Scheduling in Gig Platforms Using a Generative Diffusion Model with Duality Guidance"
     authors: <strong>Xinyu Lu</strong>, Zhanbo Feng, Jiong Lou, Chentao Wu, Guangtao Xue, Wei Zhao, Jie Li
     conference_short: TMC
     conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2025.
