@@ -36,6 +36,7 @@ I am currently a Postdoctoral Fellow at The Chinese University of Hong Kong, She
 ## Services
 
 #### Academic Services 
+- **[2025]** Reviewer for Energy Informatics
 - **[2025]** PC Member for LAAPL'2025
 - **[2025]** Reviewer for CyberSciTech'2025 (AI-DHWP 2025)
 - **[2025]** Reviewer for Expert Systems With Applications
