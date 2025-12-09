@@ -82,9 +82,15 @@ I am currently a Postdoctoral Fellow at The Chinese University of Hong Kong, She
 - <span style="background-color:#f97316;color:white;padding:2px 6px;border-radius:4px;font-size:0.8em;">CCF-B</span>
   <span style="background-color:#1d4ed8;color:white;padding:2px 6px;border-radius:4px;font-size:0.8em;">SCI</span>
   **Xinyu Lu**, Jie Li, Shijing Yuan, Haiming Jin, Chentao Wu, Zhan Xu. Toward Real-Time Pricing and Allocation for Surplus Resources in Electric Bus Charging Stations[J]. IEEE Transactions on Intelligent Transportation Systems (TITS), 2023, 25(2): 2101-2115. 
-- **Xinyu Lu**, Jie Li, Chentao Wu, Jinsong Wu, Mahmoud Daneshmand. Measuring Similarity between Any Pair of Passengers Using Smart Card Usage Data[J]. IEEE Internet of Things Journal (IOT-J), 2021, 9(2): 1458-1468. (CCF-C, SCI)
-- Yuxin Liu, Yuezhang Peng, Hefeng Zhou, Hongze Liu, **Xinyu Lu**, Jiong Lou, Chentao Wu, Wei Zhao, Jie Li. LOVO: Efficient Complex Object Query in Large-Scale Video Datasets[C]//2025 IEEE 41th International Conference on Data Engineering (ICDE). 2025. (CCF-A)
-- Zhanbo Feng, Zenan Ling, **Xinyu Lu**, Ci Gong, Feng Zhou, Wugedele Bao, Jie Li, Fan Yang, Robert C. Qiu. Textual and Visual Prompt Fusion for Image Editing via Step-Wise Alignment[C]//IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP). 2025. (CCF-B)
-- Jiong Lou, Zhiqing Tang, **Xinyu Lu**, Shijing Yuan, Jie Li, Weijia Jia, Chentao Wu.Efficient Serverless Function Scheduling in Edge Computing[C]//IEEE International Conference on Communications (ICC). 2024: 1029-1034. (CCF-C)
-- Xiang Yu, Ruoxin Chen, Jie Li, Jiawei Sun, Shijing Yuan, Huxiao Ji, **Xinyu Lu**, Chentao Wu.Zero-Shot Scene Graph Generation with Knowledge Graph Completion[C]//IEEE International Conference on Multimedia and Expo (ICME). 2022: 1-6. (CCF-B)
+- <span style="background-color:#22c55e;color:white;padding:2px 6px;border-radius:4px;font-size:0.8em;">CCF-C</span>
+  <span style="background-color:#1d4ed8;color:white;padding:2px 6px;border-radius:4px;font-size:0.8em;">SCI</span>
+  **Xinyu Lu**, Jie Li, Chentao Wu, Jinsong Wu, Mahmoud Daneshmand. Measuring Similarity between Any Pair of Passengers Using Smart Card Usage Data[J]. IEEE Internet of Things Journal (IOT-J), 2021, 9(2): 1458-1468. 
+- <span style="background-color:#e11d48;color:white;padding:2px 6px;border-radius:4px;font-size:0.8em;">CCF-A</span>
+Yuxin Liu, Yuezhang Peng, Hefeng Zhou, Hongze Liu, **Xinyu Lu**, Jiong Lou, Chentao Wu, Wei Zhao, Jie Li. LOVO: Efficient Complex Object Query in Large-Scale Video Datasets[C]//2025 IEEE 41th International Conference on Data Engineering (ICDE). 2025.
+- <span style="background-color:#f97316;color:white;padding:2px 6px;border-radius:4px;font-size:0.8em;">CCF-B</span>
+Zhanbo Feng, Zenan Ling, **Xinyu Lu**, Ci Gong, Feng Zhou, Wugedele Bao, Jie Li, Fan Yang, Robert C. Qiu. Textual and Visual Prompt Fusion for Image Editing via Step-Wise Alignment[C]//IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP). 2025. 
+- <span style="background-color:#22c55e;color:white;padding:2px 6px;border-radius:4px;font-size:0.8em;">CCF-C</span>
+Jiong Lou, Zhiqing Tang, **Xinyu Lu**, Shijing Yuan, Jie Li, Weijia Jia, Chentao Wu.Efficient Serverless Function Scheduling in Edge Computing[C]//IEEE International Conference on Communications (ICC). 2024: 1029-1034. 
+- <span style="background-color:#f97316;color:white;padding:2px 6px;border-radius:4px;font-size:0.8em;">CCF-B</span>
+Xiang Yu, Ruoxin Chen, Jie Li, Jiawei Sun, Shijing Yuan, Huxiao Ji, **Xinyu Lu**, Chentao Wu.Zero-Shot Scene Graph Generation with Knowledge Graph Completion[C]//IEEE International Conference on Multimedia and Expo (ICME). 2022: 1-6. 
 
