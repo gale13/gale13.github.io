@@ -70,11 +70,18 @@ I am currently a Postdoctoral Fellow at The Chinese University of Hong Kong, She
 ## All Publications
 - <span style="background-color:#e11d48;color:white;padding:2px 6px;border-radius:4px;font-size:0.8em;">CCF-A</span>
   <span style="background-color:#1d4ed8;color:white;padding:2px 6px;border-radius:4px;font-size:0.8em;">SCI</span>
-  **Xinyu Lu**, Zhanbo Feng, Jiong Lou, Chentao Wu, Guangtao Xue, Wei Zhao, Jie Li. Multi-layer Scheduling in Gig Platforms Using a Generative Diffusion Model with Duality Guidance[J]. IEEE Transactions on Mobile Computing (TMC), 2025. (CCF-A, SCI)
-- **Xinyu Lu**, Jiong Lou, Jie Li, Runhui Xu, Chentao Wu, Zhi Liu, Yuan Luo, Yang Yang. Towards Bi-level Supply/Demand Balanced Charging Systems via Online Power Scheduling[J]. IEEE Transactions on Mobile Computing (TMC), 2025, 24(9): 8405-8422. (CCF-A, SCI)
-- **Xinyu Lu**, Jiawei Sun, Jiong Lou, Yusheng Ji, Chentao Wu, Wei Zhao, Guangtao Xue, Yuan Luo, Fan Cheng, Jie Li. V2PCP: Toward Online Booking Mechanism for Private Charging Piles[J]. IEEE Transactions on Intelligent Transportation Systems (TITS), 2025, 26(2): 2514-2529. (CCF-B, SCI)
-- **Xinyu Lu**, Zhanbo Feng, Jiawei Sun, Jiong Lou, Chentao Wu, Wugedele Bao, Jie Li. Generative Diffusion Model-based Energy Management in Networked Energy Systems[C]//IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP). 2025. (CCF-B)
-- **Xinyu Lu**, Jie Li, Shijing Yuan, Haiming Jin, Chentao Wu, Zhan Xu. Toward Real-Time Pricing and Allocation for Surplus Resources in Electric Bus Charging Stations[J]. IEEE Transactions on Intelligent Transportation Systems (TITS), 2023, 25(2): 2101-2115. (CCF-B, SCI)
+  **Xinyu Lu**, Zhanbo Feng, Jiong Lou, Chentao Wu, Guangtao Xue, Wei Zhao, Jie Li. Multi-layer Scheduling in Gig Platforms Using a Generative Diffusion Model with Duality Guidance[J]. IEEE Transactions on Mobile Computing (TMC), 2025. 
+- <span style="background-color:#e11d48;color:white;padding:2px 6px;border-radius:4px;font-size:0.8em;">CCF-A</span>
+  <span style="background-color:#1d4ed8;color:white;padding:2px 6px;border-radius:4px;font-size:0.8em;">SCI</span>
+  **Xinyu Lu**, Jiong Lou, Jie Li, Runhui Xu, Chentao Wu, Zhi Liu, Yuan Luo, Yang Yang. Towards Bi-level Supply/Demand Balanced Charging Systems via Online Power Scheduling[J]. IEEE Transactions on Mobile Computing (TMC), 2025, 24(9): 8405-8422. 
+- <span style="background-color:#f97316;color:white;padding:2px 6px;border-radius:4px;font-size:0.8em;">CCF-B</span>
+  <span style="background-color:#1d4ed8;color:white;padding:2px 6px;border-radius:4px;font-size:0.8em;">SCI</span>
+  **Xinyu Lu**, Jiawei Sun, Jiong Lou, Yusheng Ji, Chentao Wu, Wei Zhao, Guangtao Xue, Yuan Luo, Fan Cheng, Jie Li. V2PCP: Toward Online Booking Mechanism for Private Charging Piles[J]. IEEE Transactions on Intelligent Transportation Systems (TITS), 2025, 26(2): 2514-2529. 
+- <span style="background-color:#f97316;color:white;padding:2px 6px;border-radius:4px;font-size:0.8em;">CCF-B</span>
+  **Xinyu Lu**, Zhanbo Feng, Jiawei Sun, Jiong Lou, Chentao Wu, Wugedele Bao, Jie Li. Generative Diffusion Model-based Energy Management in Networked Energy Systems[C]//IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP). 2025. 
+- <span style="background-color:#f97316;color:white;padding:2px 6px;border-radius:4px;font-size:0.8em;">CCF-B</span>
+  <span style="background-color:#1d4ed8;color:white;padding:2px 6px;border-radius:4px;font-size:0.8em;">SCI</span>
+  **Xinyu Lu**, Jie Li, Shijing Yuan, Haiming Jin, Chentao Wu, Zhan Xu. Toward Real-Time Pricing and Allocation for Surplus Resources in Electric Bus Charging Stations[J]. IEEE Transactions on Intelligent Transportation Systems (TITS), 2023, 25(2): 2101-2115. 
 - **Xinyu Lu**, Jie Li, Chentao Wu, Jinsong Wu, Mahmoud Daneshmand. Measuring Similarity between Any Pair of Passengers Using Smart Card Usage Data[J]. IEEE Internet of Things Journal (IOT-J), 2021, 9(2): 1458-1468. (CCF-C, SCI)
 - Yuxin Liu, Yuezhang Peng, Hefeng Zhou, Hongze Liu, **Xinyu Lu**, Jiong Lou, Chentao Wu, Wei Zhao, Jie Li. LOVO: Efficient Complex Object Query in Large-Scale Video Datasets[C]//2025 IEEE 41th International Conference on Data Engineering (ICDE). 2025. (CCF-A)
 - Zhanbo Feng, Zenan Ling, **Xinyu Lu**, Ci Gong, Feng Zhou, Wugedele Bao, Jie Li, Fan Yang, Robert C. Qiu. Textual and Visual Prompt Fusion for Image Editing via Step-Wise Alignment[C]//IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP). 2025. (CCF-B)
