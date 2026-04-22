@@ -2,10 +2,11 @@
 layout: homepage
 ---
 
-<nav style="background: #f5f5f5; padding: 10px 0; margin-bottom: 20px; text-align: center;">
-  <a href="#bio" style="margin: 0 18px;">Short Bio</a>
-  <a href="#award" style="margin: 0 18px;">Awards</a>
-  <a href="#publist" style="margin: 0 18px;">All Publications</a>
+<nav style="background: linear-gradient(90deg, #f8fafc 0%, #eef4ff 100%); padding: 12px 0; margin-bottom: 24px; text-align: center; border: 1px solid #e5e7eb; border-radius: 14px; box-shadow: 0 6px 20px rgba(0,0,0,0.04);">
+  <a href="#bio" style="margin: 0 18px; text-decoration: none; font-weight: 600; color: #374151;">Short Bio</a>
+  <a href="#datasets" style="margin: 0 18px; text-decoration: none; font-weight: 600; color: #374151;">Datasets</a>
+  <a href="#award" style="margin: 0 18px; text-decoration: none; font-weight: 600; color: #374151;">Awards</a>
+  <a href="#publist" style="margin: 0 18px; text-decoration: none; font-weight: 600; color: #374151;">All Publications</a>
 </nav>
 
 <a id="bio"></a>
