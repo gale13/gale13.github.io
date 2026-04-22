@@ -33,14 +33,13 @@ I am currently a Postdoctoral Fellow at The Chinese University of Hong Kong, She
 {% include_relative _includes/publications.md %}
 
 <a id="datasets"></a>
-## Selected Dataset Contributions
+## Dataset Contributions
 
 <div style="margin: 1.4em 0 2em 0; padding: 1.5em 1.6em; border-radius: 20px; background: linear-gradient(135deg, #f8fbff 0%, #eef4ff 45%, #f7f1ff 100%); border: 1px solid #dbeafe; box-shadow: 0 10px 28px rgba(59,130,246,0.10);">
 
   <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-bottom: 0.9em;">
     <span style="background: linear-gradient(135deg, #2563eb, #7c3aed); color: white; padding: 0.28em 0.82em; border-radius: 999px; font-size: 0.82em; font-weight: 700;">Dataset</span>
     <span style="background: #ecfeff; color: #0f766e; padding: 0.28em 0.82em; border-radius: 999px; font-size: 0.82em; font-weight: 700; border: 1px solid #a5f3fc;">AI × Energy Systems</span>
-    <span style="background: #fef3c7; color: #92400e; padding: 0.28em 0.82em; border-radius: 999px; font-size: 0.82em; font-weight: 700; border: 1px solid #fde68a;">Third Author</span>
   </div>
 
   <h3 style="margin-top: 0.1em; margin-bottom: 0.45em; font-size: 1.22em;">
