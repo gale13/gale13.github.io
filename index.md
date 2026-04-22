@@ -31,6 +31,51 @@ I am currently a Postdoctoral Fellow at The Chinese University of Hong Kong, She
   *Sept. 2016 – Jun. 2020*
 
 {% include_relative _includes/publications.md %}
+
+<a id="datasets"></a>
+## Selected Dataset Contributions
+
+<div style="margin: 1.4em 0 2em 0; padding: 1.5em 1.6em; border-radius: 20px; background: linear-gradient(135deg, #f8fbff 0%, #eef4ff 45%, #f7f1ff 100%); border: 1px solid #dbeafe; box-shadow: 0 10px 28px rgba(59,130,246,0.10);">
+
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-bottom: 0.9em;">
+    <span style="background: linear-gradient(135deg, #2563eb, #7c3aed); color: white; padding: 0.28em 0.82em; border-radius: 999px; font-size: 0.82em; font-weight: 700;">Dataset</span>
+    <span style="background: #ecfeff; color: #0f766e; padding: 0.28em 0.82em; border-radius: 999px; font-size: 0.82em; font-weight: 700; border: 1px solid #a5f3fc;">AI × Energy Systems</span>
+    <span style="background: #fef3c7; color: #92400e; padding: 0.28em 0.82em; border-radius: 999px; font-size: 0.82em; font-weight: 700; border: 1px solid #fde68a;">Third Author</span>
+  </div>
+
+  <h3 style="margin-top: 0.1em; margin-bottom: 0.45em; font-size: 1.22em;">
+    <a href="https://tongxin.me/opencem/" target="_blank" style="text-decoration: none; color: #111827;">
+      openCEM: Bridging Natural Language and Microgrid Dynamics
+    </a>
+  </h3>
+
+  <p style="margin-top: 0.15em; margin-bottom: 0.9em; line-height: 1.8; color: #374151;">
+    <strong>openCEM</strong> is a context-aware simulator and dataset that bridges
+    <strong>natural language</strong> and <strong>microgrid dynamics</strong>, supporting research on
+    AI-enabled energy systems, multimodal context modeling, and data-driven decision-making.
+  </p>
+
+  <div style="margin: 0.9em 0 1em 0; padding: 1em 1.1em; background: rgba(255,255,255,0.78); border-radius: 14px; border-left: 4px solid #6366f1;">
+    <div style="font-size: 0.95em; color: #111827; line-height: 1.8;">
+      <strong>Related paper.</strong>
+      <a href="https://arxiv.org/abs/2604.05429" target="_blank" style="text-decoration: none;">
+        <em>Bridging Natural Language and Microgrid Dynamics: A Context-Aware Simulator and Dataset</em>
+      </a><br>
+      Tinko Sebastian Bartels, Ruixiang Wu, <strong>Xinyu Lu</strong>, Yikai Lu, Fanzeng Xia, Haoxiang Yang, Yue Chen, Tongxin Li
+    </div>
+  </div>
+
+  <div style="margin-top: 1em;">
+    <a href="https://tongxin.me/opencem/" target="_blank" style="display: inline-block; margin-right: 10px; margin-bottom: 8px; padding: 0.56em 1.05em; background: #2563eb; color: white; text-decoration: none; border-radius: 10px; font-weight: 700; font-size: 0.92em;">
+      Visit Dataset
+    </a>
+    <a href="https://arxiv.org/abs/2604.05429" target="_blank" style="display: inline-block; margin-bottom: 8px; padding: 0.56em 1.05em; background: white; color: #374151; text-decoration: none; border-radius: 10px; font-weight: 700; font-size: 0.92em; border: 1px solid #d1d5db;">
+      View Paper
+    </a>
+  </div>
+
+</div>
+
 {% include_relative _includes/membership.md %}
 
 ## Services
