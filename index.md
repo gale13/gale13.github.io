@@ -119,7 +119,7 @@ I am currently a Postdoctoral Fellow at The Chinese University of Hong Kong, She
   Yikai Lu, Yifei Wu, **Xinyu Lu**, Tongxin Li. A World in Pieces: Structural Certification of General Agents[C]. International Conference on Machine Learning (ICML), 2026. Accepted.
 - <span style="background-color:#e11d48;color:white;padding:2px 6px;border-radius:4px;font-size:0.8em;">CCF-A</span>
   <span style="background-color:#1d4ed8;color:white;padding:2px 6px;border-radius:4px;font-size:0.8em;">SCI</span>
-  **Xinyu Lu**, Zhanbo Feng, Jiong Lou, Chentao Wu, Guangtao Xue, Wei Zhao, Jie Li. Multi-layer Scheduling in Gig Platforms Using a Generative Diffusion Model with Duality Guidance[J]. IEEE Transactions on Mobile Computing (TMC), 2026. 
+  **Xinyu Lu**, Zhanbo Feng, Jiong Lou, Chentao Wu, Guangtao Xue, Wei Zhao, Jie Li. Multi-layer Scheduling in Gig Platforms Using a Generative Diffusion Model with Duality Guidance[J]. IEEE Transactions on Mobile Computing (TMC), 2026, 25(2):2927-2940. 
 - <span style="background-color:#e11d48;color:white;padding:2px 6px;border-radius:4px;font-size:0.8em;">CCF-A</span>
   <span style="background-color:#1d4ed8;color:white;padding:2px 6px;border-radius:4px;font-size:0.8em;">SCI</span>
   **Xinyu Lu**, Jiong Lou, Jie Li, Runhui Xu, Chentao Wu, Zhi Liu, Yuan Luo, Yang Yang. Towards Bi-level Supply/Demand Balanced Charging Systems via Online Power Scheduling[J]. IEEE Transactions on Mobile Computing (TMC), 2025, 24(9): 8405-8422. 
