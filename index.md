@@ -82,6 +82,7 @@ I am currently a Postdoctoral Fellow at The Chinese University of Hong Kong, She
 
 #### Academic Services 
 - **[2026]** Program chair for CyberSciTech'2026 (AI-DHWP 2026)
+- **[2026]** Reviewer for NeurIPS'2026 Workshop ODI
 - **[2026]** Reviewer for CyberSciTech'2026
 - **[2026]** TPC for ICAIHE'2026
 - **[2025]** Reviewer for CPAL'2026
