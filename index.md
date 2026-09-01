@@ -95,6 +95,8 @@ I am currently a Postdoctoral Fellow at The Chinese University of Hong Kong, She
 - **[2025]** Expert Systems With Applications
 - **[2024]** WWW'2025
 - **[2024]** IEEE ITS Transactions
+
+#### Teaching:
 - **[2024]** **[2023]** **[2022]** Teaching Assistant for the course "Mathematical Fundamentals in Computer Science", CS2304 (SJTU).
 - **[2023]** Teaching Assistant for the course "Introduction to Logic", PHIL1119 (SJTU).
 - **[2023]** Student Mentor for the 43rd PRP Project on Deep Learning Theory, Technology, and Application at Shanghai Jiao Tong University.
