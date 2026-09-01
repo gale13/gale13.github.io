@@ -80,18 +80,21 @@ I am currently a Postdoctoral Fellow at The Chinese University of Hong Kong, She
 
 ## Services
 
-#### Academic Services 
-- **[2026]** Program chair for CyberSciTech'2026 (AI-DHWP 2026)
-- **[2026]** Reviewer for NeurIPS'2026 Workshop ODI
-- **[2026]** Reviewer for CyberSciTech'2026
-- **[2026]** TPC for ICAIHE'2026
-- **[2025]** Reviewer for CPAL'2026
-- **[2025]** Reviewer for Energy Informatics
-- **[2025]** PC Member for LAAPL'2025
-- **[2025]** Reviewer for CyberSciTech'2025 (AI-DHWP 2025)
-- **[2025]** Reviewer for Expert Systems With Applications
-- **[2024]** Reviewer for WWW'2025
-- **[2024]** Reviewer for IEEE ITS Transactions
+#### Program Chair: 
+- **[2026]** CyberSciTech'2026 (AI-DHWP 2026)
+
+#### Reviewer:
+- **[2026]** TMC
+- **[2026]** NeurIPS'2026 Workshop ODI
+- **[2026]** CyberSciTech'2026
+- **[2026]** ICAIHE'2026
+- **[2025]** CPAL'2026
+- **[2025]** Energy Informatics
+- **[2025]** LAAPL'2025
+- **[2025]** CyberSciTech'2025 (AI-DHWP 2025)
+- **[2025]** Expert Systems With Applications
+- **[2024]** WWW'2025
+- **[2024]** IEEE ITS Transactions
 - **[2024]** **[2023]** **[2022]** Teaching Assistant for the course "Mathematical Fundamentals in Computer Science", CS2304 (SJTU).
 - **[2023]** Teaching Assistant for the course "Introduction to Logic", PHIL1119 (SJTU).
 - **[2023]** Student Mentor for the 43rd PRP Project on Deep Learning Theory, Technology, and Application at Shanghai Jiao Tong University.
