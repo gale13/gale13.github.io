@@ -101,9 +101,9 @@ I am currently a Postdoctoral Fellow at The Chinese University of Hong Kong, She
 - **[2023]** Teaching Assistant for the course "Introduction to Logic", PHIL1119 (SJTU).
 - **[2023]** Student Mentor for the 43rd PRP Project on Deep Learning Theory, Technology, and Application at Shanghai Jiao Tong University.
 
-#### Social Services
+#### Social Services:
 - **[2021-2022]** Chairperson of the Shanghai Jiao Tong University Graduate Student Union.
-- **[2024]** **[2023]** Administrative Management Trainee.
+- **[2023-2024]** Administrative Management Trainee.
 
 <a id="award"></a>
 ## Awards
