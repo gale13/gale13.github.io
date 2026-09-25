@@ -84,7 +84,7 @@ I am currently a Postdoctoral Fellow at The Chinese University of Hong Kong, She
 - **[2026]** CyberSciTech'2026 (AI-DHWP 2026)
 
 #### Reviewer:
-- **[2026]** TMC
+- **[2026]** IEEE TMC
 - **[2026]** NeurIPS'2026 Workshop ODI
 - **[2026]** ICDM'2026 Teen Research Track
 - **[2026]** CyberSciTech'2026
